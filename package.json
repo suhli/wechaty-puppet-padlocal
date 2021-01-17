@@ -70,9 +70,6 @@
     "tstest": "^0.4.10",
     "wechaty": "^0.50.7"
   },
-  "peerDependencies": {
-    "wechaty-puppet": "*"
-  },
   "dependencies": {
     "@types/fs-extra": "^9.0.1",
     "@types/lru-cache": "^5.1.0",
@@ -91,7 +88,7 @@
     "state-switch": "^0.6.18",
     "typed-emitter": "^1.2.0",
     "watchdog": "^0.8.17",
-    "wechaty-puppet": "^0.33.3",
+    "wechaty-puppet": "git://github.com/suhli/wechaty-puppet.git#master",
     "xml2js": "^0.4.23"
   },
   "jest": {
