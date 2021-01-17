@@ -17,7 +17,6 @@
     "lint": "tslint --project tsconfig.json",
     "test": "jest",
     "coverage": "jest --coverage",
-    "prepare": "npm run dist && bash ./scripts/generate-version.sh",
     "serve": "tsc-watch",
     "demo": "./node_modules/.bin/ts-node exmaples/demo.ts"
   },
