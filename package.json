@@ -10,9 +10,6 @@
   "files": [
     "dist/**/*"
   ],
-  "engines": {
-    "wechaty": ">=0.50.0"
-  },
   "scripts": {
     "clean": "rm -fr dist/*",
     "dist": "npm run clean && tsc",
@@ -68,7 +65,7 @@
     "tsc-watch": "^4.2.9",
     "tslint-config-prettier": "^1.18.0",
     "tstest": "^0.4.10",
-    "wechaty": "^0.50.7"
+    "wechaty": "git://github.com/suhli/wechaty.git#personal_usage"
   },
   "dependencies": {
     "@types/fs-extra": "^9.0.1",
