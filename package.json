@@ -85,7 +85,7 @@
     "state-switch": "^0.6.18",
     "typed-emitter": "^1.2.0",
     "watchdog": "^0.8.17",
-    "wechaty-puppet": "git://github.com/suhli/wechaty-puppet.git#master",
+    "wechaty-puppet": "git://github.com/suhli/wechaty-puppet.git#personal_usage",
     "xml2js": "^0.4.23"
   },
   "jest": {
