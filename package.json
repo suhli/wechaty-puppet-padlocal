@@ -65,7 +65,7 @@
     "tsc-watch": "^4.2.9",
     "tslint-config-prettier": "^1.18.0",
     "tstest": "^0.4.10",
-    "wechaty": "git://github.com/suhli/wechaty.git#personal_usage"
+    "wechaty": "suhli/wechaty#personal_usage"
   },
   "dependencies": {
     "@types/fs-extra": "^9.0.1",
@@ -85,7 +85,7 @@
     "state-switch": "^0.6.18",
     "typed-emitter": "^1.2.0",
     "watchdog": "^0.8.17",
-    "wechaty-puppet": "git://github.com/suhli/wechaty-puppet.git#personal_usage",
+    "wechaty-puppet": "suhli/wechaty-puppet#personal_usage",
     "xml2js": "^0.4.23"
   },
   "jest": {
